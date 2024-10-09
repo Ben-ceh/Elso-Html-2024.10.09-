@@ -1,0 +1,83 @@
+.Bmwlogo {
+ text-align: center;
+ margin: auto;
+ margin-top: 25px;
+}
+.you{
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+}
+.focim{
+    text-align: center;
+    font-weight: bold;
+
+}
+.szövegkozep{
+    text-align: center;
+    font-weight: bold;
+    width: 75%;
+    margin: 0;
+    margin-left: 165px;
+    margin-bottom: 50px;
+}
+.baloldalikép{
+    text-align: left;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.Jobboladkép{
+    text-align: right;
+    margin-top: 25px;
+    margin-right: 50px;
+
+}
+.kisebbcimjobb{
+    font-weight:bold;
+    text-align: right;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+.kisebbcimbal{
+    font-weight:bold;
+    text-align: left;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.szövegjobb{
+    text-align: right;
+    margin-right: 50px;
+    width: 50%;
+    margin-left: 665px;
+}
+.szövegbal{
+    text-align: left;
+    margin-left: 50px;
+    width: 50%;
+    margin-left: 0px;
+}
+.kisebbcimkozep {
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+    font-weight: bold;
+    
+}
+.carousel-inner {
+    width: 60%; 
+    margin: 0 auto;
+    margin-bottom: 50px;
+    object-fit: cover;
+
+}
+.carousel-control-prev{
+    width: 30%; 
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.carousel-control-next{
+    width: 30%; 
+    margin: 0 auto;
+    margin-bottom: 50px;
+
+}
